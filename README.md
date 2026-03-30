@@ -6,5 +6,16 @@ Manuscript status: under revision (March 2026)
 <br />
 
 ### Below is a brief description of the folders and files contained within this directory:  
+# Code
+- ITL
+- behavior
+- mat_to_csv
 # Data
-- 
+- csvs
+# Results
+- ITL
+
+
+### Repository for behavior + modeling data
+
+- https://github.com/sumwor/Juliana_revision: Code for visualizing + analyzing behavior (quartile + 3h learning curves) + modeling 
