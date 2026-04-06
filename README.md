@@ -16,6 +16,7 @@ Manuscript status: under revision (March 2026)
 - ITL
 
 
-### Repository for behavior + modeling data
+### Repository for custom box scripts, behavior, + modeling data
 
+- https://github.com/Wilbrecht-Lab/RP_Box: Code for custom 2AFC box and task 
 - https://github.com/sumwor/Juliana_revision: Code for visualizing + analyzing behavior (quartile + 3h learning curves) + modeling 
