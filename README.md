@@ -6,13 +6,13 @@ Manuscript status: under revision (March 2026)
 <br />
 
 ### Below is a brief description of the folders and files contained within this directory:  
-# Code
+## Code
 - ITL: use ITL_analysis.ipynb to set path to metadata, output folders, and csv behavior files. This will create folders with all files seen in "results" folder.
 - mat_to_csv: code to save .mat behavior file to .csv files
-# Data
+## Data
 - csvs: individual behavior .csvs for each animal's session separated into 6 folders by group
 - metadata: list of each individual session with age, date, genotype, sex, etc. 
-# Results
+## Results
 - ITL: results from ITL code with individual folder for each group. Folder contains trial level summaries, cutoffs from 93, 95, 98 percentile, and a shorter .csv with the main 95 percentile data that was used for supplemental figures in the manuscript. 
 
 
