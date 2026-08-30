@@ -12,6 +12,7 @@ Manuscript status: under revision
 - **behavior**: `master_ASD_RLWM_JC.m` builds a session index (`makeDataIndex_ASD.m`) and converts each raw .mat behavior log into a `behaviorDF.csv` via `extract_behavior_df` / `get_RLWM_EventTimes`. Set `root_dir` and `strainNum` at the top of the driver. Add `code/mat_to_csv/` and `code/behavior/` (and its `lib/` subfolders) to the MATLAB path before running.
 <br/>`ASD_odor_summary.m` - 3 hour block performance in AB; `ASD_learning_curve.m` - quartile learning curves in AB. Summary values from both scripts were exported and plotted in GraphPad Prism.
 - **exploratory_not_reported**: exploratory analyses not included in manuscript, kept for reference
+- **modeling**: all reinforcement learning modeling code and data. Includes a separate `README.md` for reference
 ## Data
 - **csvs**: individual behavior `.csv` for each animal's session, separated into 6 folders by group (Tsc2/Shank3B × sex × deterministic/probabilistic).
 - **metadata**: one row per session with age, date, genotype, sex, etc.
